@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yoga with Lucia</title>
+    
+    <link rel="stylesheet" href="Resources/index.css">
+</head>
+<body>
+<!-- navbar-->
+
+<div>
+<nav class = "navbar">
+<ul>
+<li><a href="" target="a_blank"> About me</a></li>
+<li><a href="" target="a_blank">Lesson tariffs</a></li>
+<li><a href="" target="a_blank"> Contact</a></li>
+</ul>
+</nav>
+</div>
+
+<!-- banner-->
+    <div class="banner">
+
+        <div>
+            <! text -->
+            <h2 class="header">Yoga with Lucia</h1>
+        
+        </div>
+    <img id="lu" src="./Resources/lucforWebsiteTest.jpg" alt="Lucia Kovacova yoga">
+
+    <div>
+        <button><p id:"lessonbook"><strong></strong>Book a lesson!</strong></p></button>
+   </div> 
+<!-- Header-->
+
+<!-- Main text /introduction-->
+<div>
+    <p id="hello"> <em>Hi! Welcome to my website.  
+        <br> For a decade, yoga has been my passion.
+         I would love to share my experience with you.</br></em>
+    </p>
+</div>
+
+
+
+
+<!-- audio-->
+<div id="audio">
+<audio src="./Resources/smartsound_ATMO_BUSH_Water_Hole_Early_Morning_04.mp3" controls autoplay loop> </audio>
+</div>
+<footer>
+    <figure>
+
+    (c) Ava Naragno 2020
+</figure>
+</footer>
+ 
+</body>
+</html>
